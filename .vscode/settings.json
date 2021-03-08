@@ -1,0 +1,5 @@
+{
+        "python.pythonPath": "/Users/ayan/opt/anaconda3/envs/exercises/bin/python",
+        "python.linting.pylintEnabled": true,
+        "python.linting.enabled": true
+}
